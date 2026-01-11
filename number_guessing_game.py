@@ -19,6 +19,7 @@ while True:
         print("Too Low ")
 
     else:
-        print("🎉 Correct! You guessed it in", attempts, "attempts.")
+        print(" Correct! You guessed it in", attempts, "attempts.")
 
         break
+
